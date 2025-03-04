@@ -1,0 +1,5 @@
+5
+This is a simple; file
+with some lines to read
+
+So let's read all the letters

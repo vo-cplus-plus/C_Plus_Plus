@@ -1,0 +1,6 @@
+Легкий уровень
+
+https://leetcode.com/problems/design-an-ordered-stream/submissions/1562544469/
+
+Средний уровень
+https://leetcode.com/problems/longest-square-streak-in-an-array/description/
