@@ -1,0 +1,11 @@
+Легкий уровень
+
+https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
+https://leetcode.com/problems/search-insert-position/description/
+
+
+
+Средний уровень
+
+https://leetcode.com/problems/valid-sudoku/description/
+https://leetcode.com/problems/simplify-path/description/
