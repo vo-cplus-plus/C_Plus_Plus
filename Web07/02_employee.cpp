@@ -1,7 +1,7 @@
 #include <string>
 #include <sstream>
 #include "02_date.h"
-using std::string, std::stringstream;
+using std::string, std::stringstream, std::ostream;
 
 
 
