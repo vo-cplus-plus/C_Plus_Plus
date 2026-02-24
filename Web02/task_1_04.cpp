@@ -2,7 +2,7 @@
 #include <cmath>
 
 int main(){
-    char x1, y1, x2, y2;
+    unsigned char x1, y1, x2, y2;
     std::cout << "Введите значения: ";
     std::cin  >> x1 >> y1 >> x2 >> y2;
 
